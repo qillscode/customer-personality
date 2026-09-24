@@ -27,8 +27,8 @@ Thumbs.db
 
 # Streamlit / app artifacts
 .streamlit/
-*.pkl
-*.joblib
+# *.pkl
+# *.joblib
 
 # Data / large files (optional, if you do not want to commit them)
 # customer_personality_with_cluster.csv

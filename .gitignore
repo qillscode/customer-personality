@@ -1,0 +1,38 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Streamlit / app artifacts
+.streamlit/
+*.pkl
+*.joblib
+
+# Data / large files (optional, if you do not want to commit them)
+# customer_personality_with_cluster.csv
+# marketing_campaign.csv
+
+# Logs
+*.log
